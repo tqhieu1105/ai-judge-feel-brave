@@ -1,7 +1,6 @@
 import { mkdir, writeFile } from "node:fs/promises";
 
-const entry = `All week, Nora's whistle was only breath. On Thursday, one clear note crossed the porch.
-The old dog lifted his head from the rug, then stood. She tried once more; he came over and rested his chin on her shoe.`;
+const entry = `I carried my mug to the step where the new neighbor sat. 'I'm Ada,' I said. I sat beside her. For a while we watched a beetle climb the toe of my shoe. I kept my foot still until it reached the grass.`;
 
 await mkdir("/output", { recursive: true });
 await writeFile("/output/entry.txt", entry, "utf8");

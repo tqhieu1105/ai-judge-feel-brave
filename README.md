@@ -1,15 +1,14 @@
-# A Note Across the Porch
+# A Name on the Step
 
 [![make.fun competition](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
 [![Rank](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/tqhieu1105/ai-judge-feel-brave/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
 [![Reward](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/tqhieu1105/ai-judge-feel-brave/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
 
-An original miniature scene about Nora, whose week of breath-only whistles
-finally produces one clear note. Her old dog lifts his head from the rug,
-stands, and comes to rest his chin on her shoe. The scene lets that small
-answer carry its own quiet courage, with a steady pace and a tangible ending.
+Version 2 is a quiet miniature about Ada introducing herself to a new neighbor.
+The small risk belongs to one person; a beetle crossing her shoe gives the
+moment room to settle without explaining its meaning.
 
-`main.ts` contains the chosen text as a literal string. It creates `/output`
+`main.ts` contains the chosen v2 text as a literal string. It creates `/output`
 and writes that string, exactly once and without an added newline, to
 `/output/entry.txt` as UTF-8. It needs no dependencies or network access.
 
